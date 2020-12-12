@@ -156,7 +156,7 @@
   }
 
     .image-1 {
-      height: 400px;
+      height: 600px;
       width: auto;
  
   }
@@ -255,22 +255,26 @@
   .grid-container {
     display: grid;
     max-width: 50%;
-    grid-template-columns: repeat(2, minmax(min-content, 100px));
-    grid-template-rows: repeat(3, minmax(min-content, 100px));
+    grid-template-columns: repeat(3, minmax(min-content, 200px));
+    grid-template-rows: repeat(5, minmax(min-content, 100px));
     grid-gap: 10px 10px;
     color:  var(--secondary-color);
     font-size: 1.5rem;
-    justify-items: right;
+    justify-items: left;
   }
   
   .grid-item {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
     justify-items: left;
     text-align: center;
     align-content: space-around;
     padding-left: 50px;
+  }
+
+  .grid-item .image-1 {
+    grid-row-start: span 3;
   }
   
   /* GRID STYLES END */
