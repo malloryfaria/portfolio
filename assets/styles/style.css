@@ -378,6 +378,8 @@
         width: 100%;
         text-align: center;
         justify-content: center;
+        padding-left: none;
+        padding-right: none;
     }
     
     .grid-container {
