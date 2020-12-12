@@ -10,7 +10,7 @@ https://malloryfaria.github.io/portfolio/
  
 ## Screenshots
 
-![landing page of portfolio ](/assets/images/ReadMeScreenshot.jpg?raw=true "Landing Page")
+![landing page of portfolio ](/assets/images/readme.jpg?raw=true "Landing Page")
 
 ## Tech/framework used
 
