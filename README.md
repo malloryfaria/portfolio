@@ -23,6 +23,7 @@ Accessibility & semantic tags
 
 ## Code Example
 
+```
 <!-- about me section begins -->
 <section id="about-me" class="about-me">
     <div class="flex-row-title">
@@ -45,6 +46,7 @@ Accessibility & semantic tags
     </div>
 </section>
 <!-- about me section ends -->  
+```
 
 
 ## License
