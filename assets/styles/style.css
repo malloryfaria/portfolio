@@ -211,7 +211,7 @@
     text-align: right;
   }
 
-  .flex-row {
+  /* .flex-row {
     display: flex;
     flex-wrap: wrap;
     justify-self: left;
@@ -238,7 +238,7 @@
   .grid-item a {
       color: var(--primary-color);
       background: var(--tertiary-color);
-  }
+  } */
 
   .contact-me a {
       color: var(--quaternary-color);
